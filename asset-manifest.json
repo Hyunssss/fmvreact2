@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fmvreact2/static/css/main.ff98af69.css",
+    "main.js": "/fmvreact2/static/js/main.e5373f18.js",
+    "index.html": "/fmvreact2/index.html",
+    "main.ff98af69.css.map": "/fmvreact2/static/css/main.ff98af69.css.map",
+    "main.e5373f18.js.map": "/fmvreact2/static/js/main.e5373f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff98af69.css",
+    "static/js/main.e5373f18.js"
+  ]
+}
